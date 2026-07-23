@@ -164,10 +164,6 @@ p {
   padding-left: 3px;
 }
 
-.demo-list {
-  border-top: 1px solid var(--border);
-}
-
 .demo-item {
   display: flex;
   align-items: center;
